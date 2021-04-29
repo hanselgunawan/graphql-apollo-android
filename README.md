@@ -30,6 +30,7 @@ query UserList {
 * Subscription: we use this to find out / listen to changes.
 
 **[OPERATION NAME]**
+
 If we see at the example above, `UserList` is an operation name.
 
 ## GraphQL vs REST API
