@@ -74,7 +74,7 @@ What if we just want to grab the `Phone Number` field? That will require more wo
 
 **BUT** with `GraphQL`, we only get what we ask for!
 
-## GraphqL Server
+## GraphQL Server
 Any GraphQL Server is made up by:
 
 * Types
@@ -115,7 +115,7 @@ ApolloClient.builder()
 apollo-codegen download-schema
 ```
 
-### .graphql File
+### `.graphql` File
 This is where we put our queries -> rebuild the project -> the plugin will auto-generate Kotlin/Java files for us.
 Generated code will contain `Query` at its file name.
 
