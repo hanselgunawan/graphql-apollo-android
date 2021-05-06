@@ -25,9 +25,9 @@ query UserList {
 ### Keywords
 
 **[OPERATION TYPE]**
-* Query: we use this to get information back from the server.
-* Mutation: we use this if we want to change some data.
-* Subscription: we use this to find out / listen to changes.
+* `Query`: we use this to get information back from the server.
+* `Mutation`: we use this if we want to change some data.
+* `Subscription`: we use this to find out / listen to changes.
 
 **[OPERATION NAME]**
 
